@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshm07
 - 👀 I’m interested in Robotics and Automation.
-- 🌱 I’m currently learning Web application development with Python.
+- 🌱 Web developement with React, Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

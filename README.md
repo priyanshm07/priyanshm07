@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @priyanshm07
 - 👀 I’m interested in Robotics and Automation.
-- 🌱 Web developement with React, Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Web developement with React, Node.js
+-  I’m looking to collaborate on Open-source projects.
+
 
 <!---
 priyanshm07/priyanshm07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

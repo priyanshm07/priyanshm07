@@ -3,17 +3,6 @@
 -  Web developement with React, Node.js
 -  I’m looking to collaborate on Open-source projects.
 
-## 📟 GitHub Stats
-<!-- <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjanas6&show_icons=true&theme=vue&count_private=true" />
-</p> -->
-<p align="center">
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshm07&" />
-</p>
-
-## 💳 Github Profile Summary Card
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshm07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true">
-
 ## 🌐 Socials
 <div align="center">    
 <h3>Find me on</h3>

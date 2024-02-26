@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyansh Maheshwari
-- 👀 I’m interested in Robotics and Automation.
--  Web developement with React, Node.js
+- 👀 Keen intrest in Robotics and Automation Projects.
+-  Tech Stack : React, Node.js, Javascript, Mongodb, AWS, GCP, Docker, Kubernetes
 -  I’m looking to collaborate on Open-source projects.
 
 ## 🌐 Socials
